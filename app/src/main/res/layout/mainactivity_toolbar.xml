@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/mainactivitytoolbar_height"
+    android:elevation="@dimen/mainactivitytoolbar_elevaton">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/teststringsmall"
+        android:layout_margin="@dimen/margin_medium"
+        android:layout_centerVertical="true"
+        android:id="@+id/location_name"
+        android:textSize="@dimen/font_small"/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_location_on_black_24dp"
+        android:layout_margin="@dimen/margin_medium"
+        android:id="@+id/change_location_icon"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/grey_light" />
+
+</RelativeLayout>

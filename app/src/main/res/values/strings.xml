@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeWash</string>
+    <string name="teststringsmall">TestSmall</string>
+    <string name="teststringmedium">Test Medium String Always</string>
+    <string name="teststringlarge">Test Large String Always Test Large String Always Test Large String Always</string>
+
+    <string name="font">fonts/ManilaSansReg.ttf</string>
+</resources>
