@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.awashingcompany.wewash.Fragments.NearMeFragment;
 import com.awashingcompany.wewash.Models.MainActivityLabels;
 import com.awashingcompany.wewash.R;
 

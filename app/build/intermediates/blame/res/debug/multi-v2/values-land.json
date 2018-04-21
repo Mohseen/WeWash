@@ -4,6 +4,25 @@
             "outputFile": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\ed88f9d20e2b553f6edac262a948799e\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
                     "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",

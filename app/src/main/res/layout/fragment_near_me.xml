@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.NearMeFragment">
+
+
+    <include
+        android:id="@+id/toolbat_mainActivity"
+        layout="@layout/mainactivity_toolbar"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbat_mainActivity"
+        android:id="@+id/labelText"
+        android:text="@string/teststringmedium"
+        android:layout_margin="@dimen/margin_medium"
+        android:textSize="@dimen/font_small"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelText"
+        android:layout_margin="@dimen/margin_large"
+        android:id="@+id/recyclerviewMainActivity"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/recyclerviewMainActivity"
+        android:id="@+id/totalOutlets"
+        android:text="@string/teststringsmall"
+        android:layout_margin="@dimen/margin_large"
+        android:textSize="@dimen/font_verysmall"
+        android:textStyle="bold"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/recyclerviewMainActivity"
+        android:id="@+id/sortOption"
+        android:text="@string/teststringsmall"
+        android:layout_margin="@dimen/margin_large"
+        android:textSize="@dimen/font_verysmall"
+        android:textStyle="bold"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/black"
+        android:layout_alignParentEnd="true"
+        android:drawableRight="@drawable/downarrow_18"
+        android:gravity="center"
+        android:drawablePadding="@dimen/padding_small"
+        />
+
+
+</RelativeLayout>
