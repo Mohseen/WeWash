@@ -18,6 +18,7 @@ import com.awashingcompany.wewash.Fragments.ExplorerFragment;
 import com.awashingcompany.wewash.Fragments.NearMeFragment;
 import com.awashingcompany.wewash.Models.MainActivityLabels;
 import com.awashingcompany.wewash.R;
+import com.awashingcompany.wewash.Utils.BottomNavigationViewHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,8 +33,9 @@ public class MainActivity extends BaseActivity {
 
 
         BottomNavigationView bottomNavigationView = (BottomNavigationView)
-                findViewById(R.id.navigation);
+                findViewById(R.id.navigationView);
 
+        BottomNavigationViewHelper.removeShiftMode(bottomNavigationView);
         bottomNavigationView.setOnNavigationItemSelectedListener
                 (new BottomNavigationView.OnNavigationItemSelectedListener() {
                     @Override
@@ -55,7 +57,7 @@ public class MainActivity extends BaseActivity {
                                 break;
                         }
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-                        transaction.replace(R.id.frame_container, selectedFragment);
+                        transaction.replace(R.id.container, selectedFragment);
                         transaction.commit();
                         return true;
                     }
@@ -64,7 +66,7 @@ public class MainActivity extends BaseActivity {
 
         //Manually displaying the first fragment - one time only
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frame_container, NearMeFragment.newInstance());
+        transaction.replace(R.id.container, NearMeFragment.newInstance());
         transaction.commit();
 
         //Used to select an item programmatically
