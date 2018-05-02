@@ -14,4 +14,11 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    
+    <string name="login">LOGIN</string>
+    <string name="enternumber">Enter your phone number to proceed</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="continuebutton">Continue</string>
+    <string name="enterphonenumber">Enter Phone</string>
 </resources>

@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/navigation_nearme"
-        android:icon="@drawable/downarrow_18"
+        android:icon="@drawable/nearme_24"
         android:title="@string/title_nearme" />
 
     <item
         android:id="@+id/navigation_explore"
-        android:icon="@drawable/downarrow_18"
+        android:icon="@drawable/explore_24"
         android:title="@string/title_explore" />
 
     <item
         android:id="@+id/navigation_cart"
-        android:icon="@drawable/downarrow_18"
+        android:icon="@drawable/cart_24"
         android:title="@string/title_cart" />
 
     <item
         android:id="@+id/navigation_account"
-        android:icon="@drawable/downarrow_18"
-        android:title="@string/title_account" />
+        android:icon="@drawable/account_24"
+        android:title="@string/title_account"/>
 
 </menu>
