@@ -244,6 +244,14 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_near_me_18.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\near_me_18.png"
+    },
+    {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_24.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\cart_24.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainactivity_toolbar.xml.flat",
         "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\layout\\mainactivity_toolbar.xml"
     },
@@ -464,6 +472,10 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_explore_24.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\explore_24.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
@@ -550,6 +562,10 @@
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_explore_14.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\explore_14.png"
     },
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainactivity_circularbutton.xml.flat",
@@ -976,6 +992,10 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_14.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\cart_14.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -1220,6 +1240,10 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nearme_24.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\nearme_24.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -1242,6 +1266,10 @@
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\edittext_border.xml"
     },
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
@@ -1452,6 +1480,10 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account_14.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\account_14.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -1564,6 +1596,10 @@
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\ed88f9d20e2b553f6edac262a948799e\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account_24.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\account_24.png"
+    },
+    {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
@@ -1594,6 +1630,10 @@
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "C:\\Users\\rshikkal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\6a77c1254be7897cda3a2c148f351a6f\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account_8.png.flat",
+        "source": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\src\\main\\res\\drawable\\account_8.png"
     },
     {
         "merged": "C:\\Users\\rshikkal\\AndroidStudioProjects\\WeWash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
